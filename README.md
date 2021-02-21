@@ -1,4 +1,4 @@
-# File Upload with Serverless and Static Web Apps
+# File Upload with Serverless Functions and Static Web Apps
 
 This project showcases how to upload files to Azure Blob Storage using [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=readme-github-alvidela) & [Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=readme-github-alvidela).
 
